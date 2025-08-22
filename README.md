@@ -19,7 +19,7 @@
 ---
 
 ## 📂 Featured Projects
-- [🌍 Travel App](https://github.com/yourusername/travel-app) – Ứng dụng hỗ trợ lịch trình, gợi ý địa điểm & thuê xe.  
+- [🌍 Traveline](https://github.com/bone204/TourGuideApp) – Ứng dụng hỗ trợ lịch trình, gợi ý địa điểm & thuê xe.  
 - [🚗 Carage](https://github.com/yourusername/carage) – Phần mềm quản lý chuỗi garage bằng.  
 - [💪 Fitness App](https://github.com/yourusername/fitness-app) – Ứng dụng hỗ trợ tập luyện & dinh dưỡng cho dân IT.  
 
@@ -32,5 +32,5 @@
 ---
 
 ## 🌐 Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourprofile](https://www.facebook.com/boneeee24/))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/boneeee24])
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truongbmt4@gmail.com)
