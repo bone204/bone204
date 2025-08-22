@@ -19,9 +19,19 @@
 ---
 
 ## 📂 Featured Projects
-- [🌍 Traveline](https://github.com/bone204/TourGuideApp) – Ứng dụng hỗ trợ lịch trình, gợi ý địa điểm & thuê xe.  
-- [🚗 Carage](https://github.com/yourusername/carage) – Phần mềm quản lý chuỗi garage bằng.  
-- [💪 Fitness App](https://github.com/yourusername/fitness-app) – Ứng dụng hỗ trợ tập luyện & dinh dưỡng cho dân IT.  
+
+- [☀️ Weather App](https://github.com/bone204/weather_app)  
+  Ứng dụng dự báo thời tiết theo vị trí hiện tại hoặc tìm kiếm thành phố, hiển thị trực quan về nhiệt độ, độ ẩm và tốc độ gió.  
+  🔹 Vai trò: Phát triển toàn bộ ứng dụng di động.  
+
+- [📚 Edu Review App](https://github.com/YB-TEAM/edu-review-hub)  
+  Ứng dụng di động hỗ trợ sinh viên chia sẻ và đọc đánh giá về các trường đại học, bao gồm thông tin học phí, chất lượng đào tạo và trải nghiệm thực tế.  
+  🔹 Vai trò: Phát triển ứng dụng di động (mobile) trong nhóm.  
+
+- [✈️ Traveline](https://github.com/bone204/TourGuideApp)  
+  Ứng dụng du lịch giúp gợi ý lịch trình, đề xuất địa điểm tham quan và hỗ trợ thuê xe.  
+  🔹 Vai trò: Phát triển ứng dụng di động (mobile).  
+
 
 ---
 
