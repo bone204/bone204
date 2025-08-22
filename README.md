@@ -1,19 +1,16 @@
 # 👋 Hi, I'm Hữu Trường  
 
-💻 Mobile Developer | 📱 Flutter Enthusiast | 🌏 Based in Vietnam  
-
----
-
-## 🚀 About Me
-- 🔭 Hiện tại đang phát triển **Ứng dụng du lịch & cho thuê xe**  
-- 🌱 Quan tâm tới **Flutter, Firebase**  
-- 📫 Liên hệ nhanh: [Email](mailto:truongbmt4@gmail.com)  
-
----
-
-## 🎬 Just for Fun
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxxbDI5aXhzNDMwNm5tczV0N3F1ZHo0enJxOHA1amVjcWJsdDJuaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XEgmzMLDhFQAga8umN/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=💻+Mobile+Developer;📱+Flutter+Enthusiast;🌏+Based+in+Vietnam" alt="Typing SVG" />
+</p>
+
+---
+
+## 😎 About Me
+<p align="center">
+  🔭 Đang phát triển <b>Ứng dụng du lịch & cho thuê xe</b> <br/>
+  🌱 Quan tâm tới <b>Flutter + Firebase</b> <br/>
+  📫 Liên hệ: <a href="mailto:truongbmt4@gmail.com">truongbmt4@gmail.com</a>
 </p>
 
 ---
@@ -27,26 +24,10 @@
 
 ---
 
-## 📂 Featured Projects
-
-- [☀️ Weather App](https://github.com/bone204/weather_app)  
-  Ứng dụng dự báo thời tiết theo vị trí hiện tại hoặc tìm kiếm thành phố, hiển thị trực quan về nhiệt độ, độ ẩm và tốc độ gió.  
-  🔹 Vai trò: Phát triển toàn bộ ứng dụng di động.  
-
-- [📚 Edu Review App](https://github.com/YB-TEAM/edu-review-hub)  
-  Ứng dụng di động hỗ trợ sinh viên chia sẻ và đọc đánh giá về các trường đại học, bao gồm thông tin học phí, chất lượng đào tạo và trải nghiệm thực tế.  
-  🔹 Vai trò: Phát triển ứng dụng di động (mobile) trong nhóm.  
-
-- [✈️ Traveline](https://github.com/bone204/TourGuideApp)  
-  Ứng dụng du lịch giúp gợi ý lịch trình, đề xuất địa điểm tham quan và hỗ trợ thuê xe.  
-  🔹 Vai trò: Phát triển ứng dụng di động (mobile).  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bone204&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bone204&layout=compact&theme=radical" alt="top-langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bone204&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bone204&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
