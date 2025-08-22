@@ -11,6 +11,13 @@
 
 ---
 
+## 🎬 Just for Fun
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxxbDI5aXhzNDMwNm5tczV0N3F1ZHo0enJxOHA1amVjcWJsdDJuaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XEgmzMLDhFQAga8umN/giphy.gif" width="400"/>
+</p>
+
+---
+
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -51,14 +58,5 @@
   </a>
   <a href="mailto:truongbmt4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🎬 Just for Fun
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/Click%20for%20a%20surprise-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
